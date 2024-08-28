@@ -43,3 +43,5 @@ triangle_dict = create_triangle_dict(m)
 for points in e:
     max_triangles_count = max_triangles(points, triangle_dict)
     print(max_triangles_count)
+
+
